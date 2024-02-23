@@ -1,0 +1,4 @@
+This a sample text for assignment 1
+I've added this to staging area using add .
+To add it to local repository git commit -m "Added Assignment1"'
+To push git push origin master
