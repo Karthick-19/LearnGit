@@ -1,0 +1,4 @@
+Stash operation can be used to temporarily store message.
+git reset --soft Push a change back to staging area
+git reset --mixed Default reset Push a change back to unstaged area
+git reset --hard Remove the change
